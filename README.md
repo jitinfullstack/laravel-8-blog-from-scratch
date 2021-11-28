@@ -49,15 +49,27 @@
 
 ### Home Page
 
+![Laravel8-From-Scratch-Blog](https://user-images.githubusercontent.com/93995641/143768365-57d210c4-916f-4fcb-bc01-a46f85043b8d.png)
+
 ### Single Post Page
+
+![Laravel8-From-Scratch-Blog-Single-Post](https://user-images.githubusercontent.com/93995641/143768386-7ec954ea-c73c-4ad0-a805-4ca3cb6660a1.png)
 
 ### Registration Page
 
+![Laravel8-From-Scratch-Blog-Register](https://user-images.githubusercontent.com/93995641/143768394-21babccd-2a60-430b-a959-05e848e21780.png)
+
 ### Login Page
+
+![Laravel8-From-Scratch-Blog-Login](https://user-images.githubusercontent.com/93995641/143768411-845beff8-3666-42a5-804d-c7bd23ef0b4c.png)
 
 ### Admin Dashboard Page
 
+![Laravel8-From-Scratch-Blog-Dashboard](https://user-images.githubusercontent.com/93995641/143768424-01252439-d5bf-4c4f-9f0b-0d920ee0ff6d.png)
+
 ### Admin Add New Post Page
+
+![Laravel8-From-Scratch-Blog-New-Post](https://user-images.githubusercontent.com/93995641/143768441-289ee30b-6d9b-439e-b8c5-80e041fa83a2.png)
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
