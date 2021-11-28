@@ -1,3 +1,64 @@
+# Laravel 8 Blog From Scratch Using Laracasts
+
+1. Laravel Setup and Configrations
+2. Environment Setup and Composer
+3. Laravel installer Tool
+4. Laravel Route
+5. Custom CSS and JavaScript
+6. Route Wildcard Constraints
+7. Use Caching for Expensive Operations
+8. Laravel FileSystem
+9. Composer Package Manager
+10. Collection Sorting and Caching Refresher
+11. Blade Layout
+12. Environment Files and Database Connections
+13. Migrations
+14. Eloquent and the Active Record Pattern
+15. Models and Migrations
+16. Eloquent Updates and HTML Escaping
+17. Mitigate Mass Assignment Vulnerabilities
+18. Route Model Binding
+19. Eloquent Relationships
+20. Clockwork, and the N+! Problem
+21. Database Seeding
+22. Turbo Boost with Factories
+23. Eager Load Relationships on an Existing Model
+24. Convert the HTML and CSS to Blade
+25. Search Functionality
+26. Filtering
+27. Advanced Eloquent Query Constraints
+28. Merge Category and Search Queries
+29. Pagination
+30. Form and Authentication
+31. Build a Register User Page
+32. Automatic Password Hashing with Mutators
+33. Failed Validation
+34. Success Flash Message
+35. Login and Logout
+36. Laravel Breeze
+37. Comments System
+38. Table Consistency and Foreign Key Constraints
+39. Newslettera and APIs
+40. Mailchimp Api Integration
+41. Admin Section
+42. Limit Access to Only Admins 
+43. Group and Store Validation Logic
+44. Done!
+
+## Screen Shots
+
+### Home Page
+
+### Single Post Page
+
+### Registration Page
+
+### Login Page
+
+### Admin Dashboard Page
+
+### Admin Add New Post Page
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
