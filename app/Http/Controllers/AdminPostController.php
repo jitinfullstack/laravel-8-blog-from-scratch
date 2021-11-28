@@ -31,7 +31,7 @@ class AdminPostController extends Controller
 	public function store()
 	{
 		
-		Post::create($attributes = array_merge($this->validatePost(), [
+		Post::create(array_merge($this->validatePost(), [
 		
 			'user_id' => request()->user()->id,
 			'thumbnail' => request()->file('thumbnail')->store('thumbnails'),
@@ -78,7 +78,7 @@ class AdminPostController extends Controller
 		
 	}
 	
-	protected function validatePost(?Post $post = null):array
+	protected function validatePost(?Post $post = null): array
 	{
 		$post ??= new Post();
 		

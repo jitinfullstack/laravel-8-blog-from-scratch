@@ -13,7 +13,10 @@ class NewsletterController extends Controller
 {
     public function __invoke(MailchimpNewsletter $newsletter)
     {
-        request()->validate(['email' => 'required|email']);
+        
+		//ddd($newsletter);
+		
+		request()->validate(['email' => 'required|email']);
 		
         try {
             

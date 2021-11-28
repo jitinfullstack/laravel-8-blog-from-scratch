@@ -29,13 +29,13 @@ class AppServiceProvider extends ServiceProvider
      */
     public function register()
     {
-        //app()->bind(Newsletter::class, function () {
-          //  $client = (new ApiClient)->setConfig([
-            //    'apiKey' => config('services.mailchimp.key'),
-              //  'server' => 'us6'
+        //app()->bind(MailchimpNewsletter::class, function () {
+            //$client = (new ApiClient)->setConfig([
+                //'apiKey' => config('services.mailchimp.key'),
+                //'server' => 'us6'
             //]);
 
-            // return new MailchimpNewsletter($client);
+             //return new MailchimpNewsletter($client);
         //});
     }
 

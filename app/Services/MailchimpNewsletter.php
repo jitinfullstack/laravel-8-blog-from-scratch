@@ -6,7 +6,7 @@ use MailchimpMarketing\ApiClient;
 
 class MailchimpNewsletter 
 {
-    //public function __construct(ApiClient $client)
+    //public function __construct(protected ApiClient $client)
     //{
         //
     //}
@@ -32,6 +32,19 @@ class MailchimpNewsletter
 		]);
 		
 	}
+	
+	
+	//public function client()
+	//{
+		
+		//return $this->client->setConfig([
+		
+		//'apiKey' => config('services.mailchimp.key'),
+		//'server' => 'us20'
+		
+		//]);
+		
+	//}
 	
 	
 	
